@@ -4,3 +4,4 @@ The features of mobile phones are the set of capabilities, services and applicat
 
 tools used -jupyter notebook
 
+Libraries : pandas,numpy,matplotlib,seaborn, sklearn
